@@ -1,0 +1,14 @@
+/*
+* | 
+* January 16, 2015 12:11 pm
+* home.css v1.0.0
+*/
+
+* {
+	font-family:sans-serif;
+	height:auto;
+	margin:0;
+	outline:1px solid red;
+	padding:0;
+	width:auto;
+}
